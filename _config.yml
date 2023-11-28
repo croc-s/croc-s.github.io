@@ -22,8 +22,8 @@ author: croc
 navbar-links:
 #  WEB/API: "aboutme"
   WEB/API:
-    Cross Site Scripting(XSS):
-      - index: "xss_index"
+    - Cross Site Scripting(XSS):
+    - index: "xss_index"
 #      - "XSS Bypass": "xss_"
   Android:
   iOS:
