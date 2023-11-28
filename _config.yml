@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Croc's blog
+title: Croc's Pen Testing Blog
 
 # Your name to show in the footer
 author: croc
@@ -20,7 +20,11 @@ author: croc
 ###############################################
 
 navbar-links:
-  WEB/API: "aboutme"
+#  WEB/API: "aboutme"
+  WEB/API:
+    - Cross Site Scripting(XSS)
+      - index: "xss\xss_index"
+#      - "XSS Bypass": "xss_"
   Android:
   iOS:
   Cloud:
