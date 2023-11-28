@@ -23,7 +23,7 @@ navbar-links:
 #  WEB/API: "aboutme"
   WEB/API:
     Cross Site Scripting(XSS):
-      - index: "xss\xss_index"
+      - index: "xss_index"
 #      - "XSS Bypass": "xss_"
   Android:
   iOS:
