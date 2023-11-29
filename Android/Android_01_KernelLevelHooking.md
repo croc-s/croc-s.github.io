@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Kernel Level Hooking
 subtitle: System Call Hooking with Kernel Modules
 ---
