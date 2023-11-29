@@ -12,7 +12,7 @@ html {
 
 body {
 /*  font-family: 'Lora', 'Times New Roman', serif;*/
-  font-family: 'Noto Sans KR';
+  font-family: 'Noto Sans KR', sans-serif;
   src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&display=swap');
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
