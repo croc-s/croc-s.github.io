@@ -24,7 +24,6 @@ navbar-links:
   WEB/API:
     - index: "xss_index"
     - Cross Site Scripting(XSS):
-      - qwe:
     - SQL Injection:
     - File Upload:
     - File Download:
