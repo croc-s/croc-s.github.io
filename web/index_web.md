@@ -1,12 +1,14 @@
 ---
 layout: page
-title: qweqwe
-subtitle: Why you'd want to go on a date with me
+title: WEB/API 취약점진단
+subtitle: 포스팅 목록
 ---
 
-qwerqweqweqwe
+| 순번 | 분류 | Post |
+| :------ |:--- | :--- |
+| 1 | File Upload |  [Zip Slip & Zip Bomb](https://croc-s.github.io/web/zipslip_zipbomb) |
+| 2 | Eleven | Nine |
+| 3 | Eight | Six |
+| 4 | Three | One |
 
- [XSS(Cross Site Scripting)](http://beautifuljekyll.com/examples)
- [Official website](http://beautifuljekyll.com/examples)
- [Official website](http://beautifuljekyll.com/examples)
- [Official website](http://beautifuljekyll.com/examples)
+
