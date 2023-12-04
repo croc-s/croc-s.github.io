@@ -22,7 +22,7 @@ author: croc
 navbar-links:
 #  WEB/API: "aboutme"
   WEB/API:
-    - index: "web/index_web"
+    - index: "web/index"
     
 #      - "XSS Bypass": "xss_"
   Android:
