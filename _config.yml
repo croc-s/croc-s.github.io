@@ -22,15 +22,15 @@ author: croc
 navbar-links:
 #  WEB/API: "aboutme"
   WEB/API:
-    - index: "_pen_web/index"
+    - index: "_pen_web/index_web"
     
 #      - "XSS Bypass": "xss_"
   Android:
-    - index: "_pen_android/index"
+    - index: "_pen_android/index_android"
   iOS:
-    - index: "_pen_ios/index"
+    - index: "_pen_ios/index_ios"
   Cloud:
-    - index: "_pen_cloud/index"
+    - index: "_pen_cloud/index_cloud"
   
 ################
 # --- Logo --- #
