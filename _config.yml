@@ -22,17 +22,15 @@ author: croc
 navbar-links:
 #  WEB/API: "aboutme"
   WEB/API:
-    - index: "xss_index"
-    - Cross Site Scripting(XSS):
-    - SQL Injection:
-    - File Upload:
-    - File Download:
-    - 
+    - index: "web/index_web"
     
 #      - "XSS Bypass": "xss_"
   Android:
+    - index: "index_and"
   iOS:
+    - index: "index_ios"
   Cloud:
+    - index: "index_cloud"
   
 ################
 # --- Logo --- #
