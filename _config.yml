@@ -26,7 +26,7 @@ navbar-links:
     
 #      - "XSS Bypass": "xss_"
   Android:
-    - index: "index_and"
+    - index: "android\index"
   iOS:
     - index: "index_ios"
   Cloud:
